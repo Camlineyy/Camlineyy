@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript , php and css.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me
-- +254799851395
+-whatsapp +254799851395
 - email camlinemoses01@gmail.com
 - twitter @camline_ke
 
