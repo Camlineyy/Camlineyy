@@ -2,8 +2,8 @@
 - 👀 I’m interested in software development and cyber security.
 - 🌱 I’m currently learning javascript , php and css.
 - 💞️ I’m looking to collaborate on software development.
-- 📫 How to reach me
--whatsapp +254799851395
+- 📫 How to reach me;
+- whatsapp +254799851395
 - email camlinemoses01@gmail.com
 - twitter @camline_ke
 
